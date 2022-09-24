@@ -9,7 +9,7 @@ This was an exercise for learning "MUI" !
 
 
 ## Visit Project online :
-- 
+- https://weblog-template-mui-dwdi.vercel.app
 
 ## In the project directory, you can run:
 
